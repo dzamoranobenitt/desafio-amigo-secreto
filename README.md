@@ -11,7 +11,7 @@
 
 Aplicación web para gestionar un sorteo de "amigo secreto". Solo tienes que escribir los nombres de tus amigos y esta app sorteará un nombre al azar. 
 
-<img src="assets/captura-pantalla.png" alt="Imagen de la App Amigo Secreto">
+<img src="assets/captura-pantalla.jpg" alt="Imagen de la App Amigo Secreto">
 
 ## Características
 
