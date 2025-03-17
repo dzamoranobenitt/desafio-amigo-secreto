@@ -13,6 +13,7 @@ function agregarAmigo() {
     actualizarLista(); // Llama a la función para actualizar la lista de amigos en pantalla
 }
 
+// Funcion que actualiza la lista
 function actualizarLista() {
     const lista = document.getElementById("listaAmigos");
     lista.innerHTML = ""; // Limpiar la lista antes de agregar nuevos elementos
@@ -21,7 +22,7 @@ function actualizarLista() {
     }
 }
 
-
+// función del sorteo
 function sortearAmigo() {
     if (amigos.length === 0) {
         alert("No hay amigos para sortear.");
