@@ -10,6 +10,7 @@ function agregarAmigo() {
     }
     amigos.push(nombre);
     input.value = "";
+    actualizarLista(); // Llama a la función para actualizar la lista de amigos en pantalla
 }
 
 function actualizarLista() {
@@ -30,3 +31,4 @@ function sortearAmigo() {
     let amigoSorteado = amigos[indice];
     document.getElementById("resultado").innerHTML = `<li>${amigoSorteado}</li>`;
 }
+
