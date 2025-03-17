@@ -1,4 +1,4 @@
-# Amigo Secreto
+# Desatio Amigo Secreto
 
 
 ## Índice
@@ -9,7 +9,7 @@
 - [Contribución](#contribución)
 - [Licencia](#licencia)
 
-Aplicación web para gestionar un sorteo de "amigo secreto". Solo tienes que escribir los nombres de tus amigos y esta app sorteará un nombre al azar. 
+#Aplicación web para gestionar un sorteo de "amigo secreto". Solo tienes que escribir los nombres de tus amigos y esta app sorteará un nombre al azar. 
 
 <img src="assets/captura-pantalla.jpg" alt="Imagen de la App Amigo Secreto">
 
